@@ -1,0 +1,5 @@
+Copyright Franco Bulgarelli, Gustavo Trucco and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/mumukiproject/mumuki-guia-python3-funciones-2021 and the AUTHORS.txt file.
