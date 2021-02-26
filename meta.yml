@@ -1,8 +1,9 @@
 ---
-name: Funciones 2021
+name: Funciones
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: python3
 id_format: "%05d"
 order: []
