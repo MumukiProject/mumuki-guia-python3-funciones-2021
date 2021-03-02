@@ -1,0 +1,1 @@
+Para saber si un día es fin de semana, _ese día tiene que ser `"sábado"` o ese día tiene que ser `"domingo"`_. Recordá que el "o lógico" opera booleanos, no strings. :eyes:

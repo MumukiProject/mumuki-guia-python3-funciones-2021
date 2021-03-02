@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Not:Uses:startswith
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity2:longitud_nombre_completo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: longitud_nombre_completo
+  inspection: Uses:len
