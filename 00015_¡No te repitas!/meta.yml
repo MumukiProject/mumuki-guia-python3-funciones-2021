@@ -2,10 +2,13 @@
 locale: es
 tags: []
 layout: input_bottom
-editor: code
-type: problem
+editor: 0
+type: interactive
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 choices: []
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_equals
+  value: 'True'
 name: "¡No te repitas!"
