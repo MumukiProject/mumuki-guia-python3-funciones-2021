@@ -9,3 +9,8 @@ False
 True
 ```
 
+> ¡Ahora te toca a vos! Diremos que un texto es mucho más largo que otro cuando el primero tiene al menos 10 caracteres más que el segundo. Averiguá usando la consola si:
+>
+> * `"Bahía de Samborombón"` es mucho mas largo que `"Sierra de la Ventana"`
+> * `"Patagonia"` es mucho más largo que `"Cuyo"`
+> * `"Santiago del Estero"` es mucho más largo que `"Chubut"`
