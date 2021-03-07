@@ -13,7 +13,7 @@ True
 
 ¿Se parece la definición de esta función a la anterior? ¿Por qué será?
 
-> Compará esta nueva definición con la que vimos anteriormente...
+> :mag: Compará esta nueva definición con la que vimos anteriormente...
 >
 > ```python
 > def es_mas_largo_que(un_string, otro_string):
