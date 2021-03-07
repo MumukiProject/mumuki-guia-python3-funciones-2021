@@ -13,9 +13,10 @@ teacher_info: "¡Bien! Estas semanejanzas no son casuales: ¡para definir funcio
   va a tener y que más tarde le permitirán recibir _argumentos_ al invocarla;\n4.
   luego, deben ir dos puntos (`:`) antes de terminar esta primera línea (también llamada
   _cabecera_);\n5. Las siguientes líneas (también llamadas _cuerpo_) deben empezar
-  tabuladas (es decir, no directamente contra el margen, usando la tecla `Tab ↹`)
-  \n6. La última línea debe empezar con  `return`, seguido de lo que queremos que
-  devuelva nuestra función\n\n\n"
+  tabuladas (es decir, no directamente contra el margen, usando la tecla `Tab ↹`);\n6.
+  La última línea debe empezar con  `return`, seguido de lo que queremos que devuelva
+  nuestra función.\n\n\nUff, ¡muchas reglas :tired_face:! No te preocupes, de a poco
+  las iremos dominando. \n\n\n"
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
