@@ -1,0 +1,5 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: submission_errored
+  then: 'def es_mas_largo_que(un_string, otro_string):   return len(un_string) > len(otro_string)'
