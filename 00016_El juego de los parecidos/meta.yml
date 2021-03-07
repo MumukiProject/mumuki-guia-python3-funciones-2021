@@ -6,8 +6,16 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 'Es importante acá recalcar que el nombre tiene que ser expresivo. Y
-  lo mismo aplica a los parámetros. '
+teacher_info: "¡Bien! Estas semanejanzas no son casuales: ¡para definir funciones
+  hay que seguir algunas reglas!\n\n1. Toda definición debe arrancar con la palabra
+  reservada `def` (abreviatura de _definir_ en inglés);\n2. luego, deben ir el nombre
+  de la función;\n3. luego, entre paréntesis, deben ir los _parámetros_ que la función
+  va a tener y que más tarde le permitirán recibir _argumentos_ al invocarla;\n4.
+  luego, deben ir dos puntos (`:`) antes de terminar esta primera línea (también llamada
+  _cabecera_);\n5. Las siguientes líneas (también llamadas _cuerpo_) deben empezar
+  tabuladas (es decir, no directamente contra el margen, usando la tecla `Tab ↹`)
+  \n6. La última línea debe empezar con  `return`, seguido de lo que queremos que
+  devuelva nuestra función\n\n\n"
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
