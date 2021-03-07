@@ -1,2 +1,2 @@
 Def mitad(un_numero)
-  un_numero / 2
+return un_numero / 2
