@@ -1,11 +1,12 @@
 ---
 locale: es
 tags: []
-layout: input_right
+layout: input_bottom
 editor: code
 type: problem
 extra_visible: false
-teacher_info: ''
+teacher_info: 'Es importante acá recalcar que el nombre tiene que ser expresivo. Y
+  lo mismo aplica a los parámetros. '
 manual_evaluation: false
 choices: []
 name: Un poco de sintaxis
