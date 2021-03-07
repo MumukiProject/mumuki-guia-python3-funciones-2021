@@ -1,4 +1,4 @@
-¡Bien! Estas semanejanzas no son casuales: ¡para definir funciones hay que seguir algunas reglas!
+¡Bien! Estas semanejanzas no son casuales: ¡para definir funciones hay que seguir algunas reglas! :straight_ruler:
 
 1. Toda definición debe arrancar con la palabra reservada `def` (abreviatura de _definir_ en inglés);
 2. luego, deben ir el nombre de la función;
