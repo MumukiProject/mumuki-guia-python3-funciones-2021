@@ -4,7 +4,7 @@
 2. luego, debe ir el nombre de la función;
 3. luego, entre paréntesis, deben ir los _parámetros_ que la función va a tener y que más tarde le permitirán recibir _argumentos_ al invocarla;
 4. luego, deben ir dos puntos (`:`) antes de terminar esta primera línea (también llamada _cabecera_);
-5. Las siguientes líneas (también llamadas _cuerpo_) deben empezar tabuladas (es decir, no directamente contra el margen, usando la tecla `Tab ↹`);
+5. Las siguientes líneas (también llamadas _cuerpo_) deben empezar tabuladas, es decir, no directamente contra el margen, sino presionando la tecla `Tab ↹`;
 6. La última línea debe empezar con  `return`, seguido de lo que queremos que devuelva nuestra función.
 
 
