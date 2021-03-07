@@ -1,0 +1,31 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: 'Es importante acá recalcar que el nombre tiene que ser expresivo. Y
+  lo mismo aplica a los parámetros. '
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas empiezan con `def` seguido del nombre de la función
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas empiezan con `def` seguido de dos puntos
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas tienen un `return` en la primera línea
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas tienen un `return` en la última línea
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas terminan la primera línea con en dos puntos
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas arrancan la segunda línea contra el margen
+  checked: false
+name: El juego de los parecidos
