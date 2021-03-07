@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
-  value: 'True'
+  value: es_mas_largo_que("Santiago del Estero", "Misiones")
 name: "¡No te repitas!"
