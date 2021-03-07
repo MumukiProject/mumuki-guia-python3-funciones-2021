@@ -1,0 +1,1 @@
+¡Muy bien! Ahora que nuestro código anda, te dejamos algo para pensar: ¿Qué devuelve la función `mitad`? ¿Un booleano u otra cosa? Probalo en la consola para sacarte la duda :wink: 
