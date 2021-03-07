@@ -9,6 +9,8 @@ def es_pregunta(oracion):
 ```python
 ム es_pregunta("¿Qué hora es?")
 True
+ム es_pregunta("¡En esta casa obedecemos las leyes de la termodinámica!")
+False
 ```
 
 ¿Se parece la definición de esta función a la anterior? ¿Por qué será?
