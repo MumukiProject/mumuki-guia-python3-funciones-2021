@@ -25,8 +25,6 @@ False
 True # si los argumentos cambian, el resultado puede ser diferente también 
 ```
 
-Como vemos las funciones tienen un _nombre_ (en este caso `es_mas_largo_que`) que **es muy importante**: 
-
 > Veamos si se va entendiendo: 
 > 
 >  1. Copiá la _definición_ de la función `es_mas_largo_que` en el editor que está debajo
