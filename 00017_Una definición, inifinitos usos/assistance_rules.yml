@@ -10,5 +10,5 @@ rules:
       return len(un_string) > len(otro_string)
     ```
 
-    Fijate que al lado del código hay un botón que te permitirá copiarla automáticamente
+    Fijate que al lado del código hay un botón <i class="far fa-fw fa-copy"></i> que te permitirá copiarla automáticamente
 
