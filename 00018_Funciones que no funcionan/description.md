@@ -4,8 +4,9 @@ Esto es lo que se conoce como un _error de sintaxis_, que representaremos median
 
 > ¡Veamos si se entiende! Estaba vez definimos en el editor dos funciones, pero no garantizamos que estén bien hechas. :zipper_mouth:
 > 
-> 1. :eyes: Enviá el código que está a continuación, y fijate que pasa;
-> 2. :tools: si hay errores de sintaxis, corregilos y volvé a enviar;
+> 1. :arrow_forward: Enviá el código que está a continuación, y fijate qué pasa;
+> 2. :eyes: lee con atención el mensaje que Python te muestra;
+> 3. :tools: corregí los errores de sintaxis y volvé a enviar;
 > 
 > Ah, y si no te acordás de las reglas sintáticas que vimos en el ejercicio anterior, presioná en la ayuda :innocent: 
 
