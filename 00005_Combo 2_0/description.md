@@ -1,12 +1,4 @@
-¿Y esto con qué se come? Digo, ehm.... ¿cómo se usan estas funciones? ¿Cómo hago para pasarles parámetros y obtener resultados?
-
-Basta con poner el nombre de la función y, entre paréntesis, sus argumentos. ¡Es igual que en Gobstones!
-
-```python
-doble(3)
-```
-
-Y además podemos usarlas dentro de otras funciones. Por ejemplo:
+¿Y podremos combinar estas funciones al igual que hacíamos con los operadores y funciones que ya venían con Python? ¡Por supuesto! :heart_eyes: En otras palabras, _podemos invocar funciones dentro dentro de definiciones_. Por ejemplo:
 
 ```python
 def doble(numero):
