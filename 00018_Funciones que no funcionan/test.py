@@ -11,10 +11,10 @@
     self.assertEqual(mitad(10), 5)
     
 
-  def test_suma_lontigudes_de_hola_y_mundo_es_9(self):
-    self.assertEqual(suma_lontigudes(hola_y_mundo), 9)
+  def test_suma_longitudes_de_hola_y_mundo_es_9(self):
+    self.assertEqual(suma_longitudes(hola_y_mundo), 9)
 
 
-  def test_suma_longitudes_de_llueva_cafe_es_6(self):
-    self.assertEqual(suma_lontigudes("llueva", "café"), 10)
+  def test__de_llueva_cafe_es_6(self):
+    self.assertEqual(suma_longitudes("llueva", "café"), 10)
 
