@@ -27,6 +27,6 @@ True # si los argumentos cambian, el resultado puede ser diferente también
 
 > Veamos si se va entendiendo: 
 > 
->  1. Copiá la _definición_ de la función `es_mas_largo_que` en el editor que está debajo.
->  2. En la `Consola`, invocá la función `es_mas_largo_que` varias veces con argumentos diferentes. 
->  3. Luego, volvé a la pestaña de `Solución` y presioná el botón `Enviar`.
+>  1. Copiá la _definición_ de la función `es_mas_largo_que` en el editor que está debajo;
+>  2. en la `Consola`, invocá la función `es_mas_largo_que` varias veces con argumentos diferentes; 
+>  3. luego, volvé a la pestaña de `Solución` y presioná el botón `Enviar`.
