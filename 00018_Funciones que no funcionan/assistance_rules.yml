@@ -8,4 +8,4 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: "^"
   then: 'uh, ¡errores de sintaxis! :bulb: Pero mirá el símbolo `^`, ¿a dónde está
-    apuntando? ¿qué nos está queriendo decir Python?'
+    apuntando? ¿Qué nos estará queriendo decir Python?'
