@@ -7,5 +7,5 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: "^"
-  then: ":bulb:  Mirá el símbolo `^`, ¿a dónde está apuntando? ¿Qué nos estará queriendo
-    decir Python?"
+  then: 'mirá el símbolo `^` :bulb:  , ¿a dónde está apuntando? ¿Qué nos estará queriendo
+    decir Python?'
