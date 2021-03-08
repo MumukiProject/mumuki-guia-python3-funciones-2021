@@ -18,6 +18,6 @@ Pero a no desesperar :scream:: si algo no sale recordá que podés enviar tantas
 >
 > Al terminar, presioná enviar. 
 > 
-> Ah, ¿y por qué la hora es la verdad son las 12? Ahora, la verdad, no hay un por qué :stuck_out_tongue_winking_eye:
+> Ah, ¿y por qué _la hora es la verdad son las 12_? Ahora, la verdad, no hay un por qué :stuck_out_tongue_winking_eye:
 > 
 
