@@ -1,13 +1,12 @@
+class Test(unittest.TestCase):
 
-  def test_mitad_de_2_es_1(self):
-    self.assertEqual(mitad(2), 1)
+  def test_las_11_no_son_la_hora_de_la_verdad(self):
+    self.assertFalse(hora_de_la_verdad(11))
 
-
-  def test_mitad_de_20_es_10(self):
-    self.assertEqual(mitad(20), 10)
-
-
-  def test_mitad_de_10_es_5(self):
-    self.assertEqual(mitad(10), 5)
+  def test_las_14_no_son_la_hora_de_la_verdad(self):
+    self.assertFalse(hora_de_la_verdad(14))
+    
+  def test_las_12_son_la_hora_de_la_verdad(self):
+    self.assertTrue(hora_de_la_verdad(12))
 
 
