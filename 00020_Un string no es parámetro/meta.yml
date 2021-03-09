@@ -1,0 +1,18 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Si
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 'No'
+  checked: true
+name: Un string no es parámetro
