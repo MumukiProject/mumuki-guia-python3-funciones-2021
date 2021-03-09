@@ -1,3 +1,8 @@
 ¡Muy bien! :clap:
 
-Capaz pasó desapercibido, pero `le_gusta_leer` devuelve `True` o `False`, es decir, es una función que devuelve booleanos. Eso significa que en Python, no sólo hay números sino que también..... hay booleanos :stuck_out_tongue:.
+Aunque sonemos un poco insistentes, no te olvides de poner buenos nombres a tus parámetros. Por ejemplo, `libros` o `cantidad_de_libros` son mejores que `cantidad` o `numero`: 
+
+```python
+def le_gusta_leer(cantidad_de_libros):
+  return cantidad_de_libros > 20
+```
