@@ -1,2 +1,3 @@
 ---
-equal: 'No'
+equal: No, porque en la función `es_biblioteca`, `lugar` es un parámetro de tipo string,
+  pero los parámetros son nombres que no van entre comillas

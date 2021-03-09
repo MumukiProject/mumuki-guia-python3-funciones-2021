@@ -9,12 +9,15 @@ True
 False
 ```
 
-...y además, las funciones pueden tener parámetros, uno por cada argumentos que necesite recibir. ¿Deberíamos tener entonces alguna consideración especial cuando combinamos estas dos ideas? Por ejemplo, ¿está bien este código?:
+...y además, las funciones pueden tener parámetros, uno por cada argumento que necesite recibir. 
 
-```python
-def es_biblioteca("lugar")
-  return "biblioteca" in "lugar"
-```
-
-Por ejemplo, si tenemos 
+> ¡Momento! ¿Tendremos que escribir de forma diferente nuestros parámetros cuando _son de tipo_ string? :thinking:
+>
+> Por ejemplo, observá el siguiente código...
+> 
+> ```python
+> def es_biblioteca("lugar")
+>  return "biblioteca" in "lugar"
+> ```
+> ...¿está bien escrito?
 
