@@ -1,3 +1,5 @@
+Como vimos, las funciones pueden tener uno o más parámetros, y además los string pueden ser pasados como argumentos. ¿Deberíamos tener alguna consideración especial?
+
 ¿Y qué podemos hacer con los strings, además de compararlos? ¡Varias cosas! Por ejemplo, podemos preguntarles cuál es su cantidad de letras:
 
 ```python
