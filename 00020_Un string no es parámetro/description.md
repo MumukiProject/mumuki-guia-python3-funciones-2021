@@ -19,5 +19,5 @@ False
 > def es_biblioteca("lugar")
 >  return "biblioteca" in "lugar"
 > ```
-> ...¿está bien escrita?
+> ...¿está bien escrita? :eyes:
 
