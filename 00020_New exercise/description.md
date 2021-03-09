@@ -1,6 +1,23 @@
-Como vimos, las funciones pueden tener uno o más parámetros, y además los string pueden ser pasados como argumentos. ¿Deberíamos tener alguna consideración especial?
+Como vimos, un string puede ser pasado como argumento a una función...
 
-¿Y qué podemos hacer con los strings, además de compararlos? ¡Varias cosas! Por ejemplo, podemos preguntarles cuál es su cantidad de letras:
+```python
+ム es_biblioteca("Biblioteca De Babel")
+True
+ム es_biblioteca("Biblioteca Del Congreso")
+True
+ム es_biblioteca("Teatro Colón")
+False
+```
+
+...y además, las funciones pueden tener parámetros, uno por cada argumentos que necesite recibir. ¿Deberíamos tener entonces alguna consideración especial cuando combinamos estas dos ideas? Por ejemplo, ¿está bien este código?:
+
+```python
+def es_biblioteca("lugar")
+  return "biblioteca" in "lugar"
+```
+
+Por ejemplo, si tenemos 
+
 
 ```python
 ム len("biblioteca")
@@ -17,8 +34,6 @@ O también podemos _concatenarlos_, es decir, obtener **uno nuevo** que junta do
 ム "sus anaqueles " + "registran todas las combinaciones"
 "sus anaqueles registran todas las combinaciones"
 ```
-
-Por otro lado, la sintaxis de algunas funciones de `string`s es _apenitas_ diferente de lo que venimos haciendo: hay que prefijarlas con `str.`. Por ejemplo, la función que devuelve si un `string` comienza con otro es `str.startswith`:
 
 ```python
 ム str.startswith("una página", "una")
