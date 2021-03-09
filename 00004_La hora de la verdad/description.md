@@ -3,16 +3,16 @@
 Pero a no desesperar :scream:: si algo no sale recordá que podés enviar tantas veces como necesites, siempre podés consultar los ejercicios anteriores. ¡Y la ayuda, claro! :wink: 
 
 
-> Definí la función `hora_de_la_verdad`, que tome una hora y nos diga si son las `12` y probala en la consola:
+> Definí la función `es_hora_de_la_verdad`, que tome una hora y nos diga si son las `12` y probala en la consola:
 >
 > ```python
-> ム hora_de_la_verdad(0)
+> ム es_hora_de_la_verdad(0)
 > False
-> ム hora_de_la_verdad(11)
+> ム es_hora_de_la_verdad(11)
 > False
-> ム hora_de_la_verdad(12)
+> ム es_hora_de_la_verdad(12)
 > True
-> ム hora_de_la_verdad(23)
+> ム es_hora_de_la_verdad(23)
 > False
 > ```
 >
