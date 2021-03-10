@@ -12,7 +12,7 @@ False
 True
 ```
 
-> ¡A practicar! :muscle: Escribí las siguientes funciones:
+> ¡A practicar! :muscle: Definí las siguientes funciones:
 >
 > * `esta_entre`, que tome tres números y diga si el primero es mayor al segundo y menor al tercero.
 > * `esta_fuera_de_rango`: que tome tres números y diga si el primero es menor al segundo o mayor al tercero
