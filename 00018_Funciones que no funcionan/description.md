@@ -2,7 +2,7 @@
 
 Esto es lo que se conoce como un _error de sintaxis_, que representaremos mediante el símbolo <i class="fas fa-minus-circle text-broken"></i>. Mientras aprendemos a programar nos toparemos con esta clase de errores muchas veces, ¡pero a no desesperar! Si leemos con paciencia y atención nuestro código podremos resolverlo.
 
-> ¡Veamos si se entiende! Estaba vez definimos en el editor dos funciones, pero no garantizamos que estén bien hechas. :zipper_mouth:
+> ¡Veamos si se entiende! Esta vez definimos en el editor dos funciones, pero no garantizamos que estén bien hechas. :zipper_mouth:
 > 
 > 1. :arrow_forward: Enviá el código que está a continuación, y fijate qué pasa;
 > 2. :eyes: lee con atención el mensaje que Python te muestra;
