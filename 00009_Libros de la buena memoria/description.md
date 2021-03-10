@@ -24,6 +24,6 @@ True
 > True
 > ```
 > 
-> Desarrollá y probá en la consola la función `le_gusta_leer`.
+> Definí y probá en la consola la función `le_gusta_leer`.
 
 
