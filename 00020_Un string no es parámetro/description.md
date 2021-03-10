@@ -13,7 +13,7 @@ False
 
 > ¡Momento! ¿Tendremos que escribir de forma diferente nuestros parámetros cuando _son de tipo_ string? :thinking:
 >
-> Por ejemplo, observá la siguiente definición es `es_biblioteca`...
+> Por ejemplo, observá la siguiente definición de `es_biblioteca`...
 > 
 > ```python
 > def es_biblioteca("lugar")
