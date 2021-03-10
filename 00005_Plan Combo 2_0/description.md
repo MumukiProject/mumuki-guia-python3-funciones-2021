@@ -21,7 +21,7 @@ def siguiente_del_doble(numero):
   return siguiente(doble(numero))
 ```
 
-> Veamos si se entiende; escribí las siguientes funciones:
+> Veamos si se entiende; definí las siguientes funciones:
 >
 > * `anterior`: toma un número y devuelve ese número menos uno
 > * `triple`: devuelve el triple de un número
