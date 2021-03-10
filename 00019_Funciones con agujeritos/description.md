@@ -1,6 +1,6 @@
 Probablemente habrás notado que las funciones que definimos hasta ahora podían devolver tanto números como booleanos. Es más: **pueden devolver cualquier tipo de dato** :exploding_head:. Pero, ¿qué hay de lo que _entra_ a la función? ¿Cuántos argumentos podemos pasarles? ¿Y qué son exactamente los parámetros? 
 
-La respuesta que los parámetros son _...redoble de tambores :drum:..._  ¡pequeños agujeros! :face_with_raised_eyebrow: 
+La respuesta es que los parámetros son _...redoble de tambores :drum:..._  ¡pequeños agujeros! :face_with_raised_eyebrow: 
 
 Por ejemplo, en esta definición estamos _declarando_ **un** parámetro llamado `un_numero`... 
 
