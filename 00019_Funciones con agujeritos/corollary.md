@@ -5,6 +5,25 @@ Una función puede _declarar_ tantos parámetros como necesite en su definición
 ```python
 ム suma_longitudes("aprendiendo", "programación")
 ```
-...dentro de la función `suma_longitudes` el argumento `"aprendiendo"` será `un_string` y `"programación"` será `otro_string`.
+...dentro de la función `suma_longitudes` el argumento `"aprendiendo"` será `un_string` y `"programación"` será `otro_string`:
+
+```python
+def suma_longitudes(un_string, otro_string):
+  #                     ˆ           ˆ
+  #                     |           |
+  #              "aprendiendo"  "programación"
+  return len(un_string) + len(otro_string)  
+  #            ˆ                  ˆ
+  #            |                  |
+  #     len("aprendiendo")  len("programación")
+```
+
+Sin embargo, si lo invocamos escribiendo...
+
+```python
+ム suma_longitudes("conociendo", "Python")
+```
+
+... ahora el parámetro `un_string` tiene como valor `"conociendo"` y `un_string` _vale_ `"Python"`.
 
 ¡Por eso es tan importante darle un buen nombre! 
