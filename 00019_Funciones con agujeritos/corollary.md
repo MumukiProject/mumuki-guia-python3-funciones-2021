@@ -6,3 +6,5 @@ Una función puede _declarar_ tantos parámetros como necesite en su definición
 ム suma_longitudes("aprendiendo", "programación")
 ```
 ...dentro de la función `suma_longitudes` el argumento `"aprendiendo"` será `un_string` y `"programación"` será `otro_string`.
+
+¡Por eso es tan importante darle un buen nombre! 
