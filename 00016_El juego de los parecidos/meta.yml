@@ -22,7 +22,7 @@ choices:
   value: Ambas tienen un `return` en la última línea
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas terminan la primera línea con en dos puntos
+  value: Ambas terminan la primera línea con dos puntos
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Ambas arrancan la segunda línea contra el margen
