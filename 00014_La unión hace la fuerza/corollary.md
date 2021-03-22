@@ -4,4 +4,4 @@
 ム len(un_string) > len(otro_string)
 ```
 
-...¿no sería genial si pudieramos _reutilizar_ esta idea? :recycle:
+...¿no sería genial si pudiéramos _reutilizar_ esta idea? :recycle:
