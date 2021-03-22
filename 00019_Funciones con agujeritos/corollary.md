@@ -22,6 +22,6 @@ Sin embargo, si lo invocamos escribiendo...
 ム suma_longitudes("conociendo", "Python")
 ```
 
-... ahora el parámetro `un_string` tiene como valor `"conociendo"` y `un_string` _vale_ `"Python"`.
+... ahora el parámetro `un_string` tiene como valor `"conociendo"` y `otro_string` _vale_ `"Python"`.
 
 ¡Por eso es tan importante darle un buen nombre! 
