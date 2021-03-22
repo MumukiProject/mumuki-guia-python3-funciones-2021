@@ -1,4 +1,4 @@
-¿Y podremos combinar estas funciones al igual que hacíamos con los operadores y funciones que ya venían con Python? ¡Por supuesto! :heart_eyes: En otras palabras, _podemos invocar funciones dentro dentro de definiciones_. Por ejemplo:
+¿Y podremos combinar estas funciones al igual que hacíamos con los operadores y funciones que ya venían con Python? ¡Por supuesto! :heart_eyes: En otras palabras, _podemos invocar funciones dentro de definiciones_. Por ejemplo:
 
 ```python
 def doble(numero):
