@@ -26,7 +26,7 @@ Por ejemplo, cuando invocamos `mitad` con el argumento `4`, a través de este "a
 
 ...a través del parámetro `un_numero` llegará a `mitad` el `10` con el que invocamos la función. Y nuevamente, lo dividirá por dos y retornará el `5`.    
 
-> ¡Más despacio! Volamos a la función del ejercicio anterior...
+> ¡Más despacio! Volvamos a la función del ejercicio anterior...
 >
 > ```python
 > def suma_longitudes(un_string, otro_string): 
