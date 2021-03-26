@@ -23,7 +23,7 @@ def siguiente_del_doble(numero):
 
 > Veamos si se entiende; definí las siguientes funciones:
 >
-> * `anterior`: toma un número y devuelve ese número menos uno
-> * `triple`: devuelve el triple de un número
-> * `anterior_del_triple`, que combina las dos funciones anteriores: multiplica a un número por 3 y le resta 1
+> * `anterior`: toma un número y devuelve ese número menos uno.
+> * `triple`: devuelve el triple de un número.
+> * `anterior_del_triple`, que combina las dos funciones anteriores: multiplica a un número por 3 y le resta 1.
 >
