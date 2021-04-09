@@ -3,3 +3,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: esta_fuera_de_rango
   inspection: Uses:esta_entre
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esta_fuera_de_rango
+  inspection: UsesNegation
