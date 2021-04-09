@@ -20,9 +20,6 @@
   def test_esta_fuera_de_rango_0_1_10_es_False(self):
     self.assertTrue(esta_fuera_de_rango(0, 1, 10))
 
-  def test_esta_fuera_de_rango_4_4_9_es_False(self):
-    self.assertFalse(esta_fuera_de_rango(4, 4, 9))
-
   def test_esta_fuera_de_rango_12_1_10_es_True(self):
     self.assertTrue(esta_fuera_de_rango(12, 1, 10))
 
