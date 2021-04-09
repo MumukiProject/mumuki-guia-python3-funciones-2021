@@ -18,7 +18,7 @@
     self.assertTrue(esta_entre(2, 0, 100))
 
   def test_esta_fuera_de_rango_0_1_10_es_False(self):
-    self.assertFalse(esta_fuera_de_rango(0, 1, 10))
+    self.assertTrue(esta_fuera_de_rango(0, 1, 10))
 
   def test_esta_fuera_de_rango_4_4_9_es_False(self):
     self.assertFalse(esta_fuera_de_rango(4, 4, 9))
