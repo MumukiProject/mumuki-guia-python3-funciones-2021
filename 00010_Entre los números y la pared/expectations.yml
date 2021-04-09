@@ -1,8 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esta_fuera_de_rango
-  inspection: Uses:esta_entre
+  binding: "*"
+  inspection: Declares:esta_entre
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esta_fuera_de_rango
-  inspection: UsesNegation
+  binding: "*"
+  inspection: Declares:esta_fuera_de_rango
