@@ -1,4 +1,4 @@
-Sí, Python nos da operaciones que nos permites resolver diferentes tareas y además nos permite combinarlas, pero el verdadero poder de la programación es que también podemos crear nuestras propias operaciones. 
+Sí, Python nos da operaciones que nos permite resolver diferentes tareas y además nos permite combinarlas, pero el verdadero poder de la programación es que también podemos crear nuestras propias operaciones. 
 
 Y para hacer esto, ¡démosle entonces la bienvenida a _las funciones_ :confetti_ball:! Nuestras nuevas amigas nos permitirán "enseñarle"  a la computadora a realizar una tarea que originalmente no estaba incluida en el lenguaje mediante. ¿Cómo? _Escribiendo una definición_ como la siguiente **una sola vez** :one:... 
 
