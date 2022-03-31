@@ -16,7 +16,7 @@ False
 > Por ejemplo, observá la siguiente definición de `es_biblioteca`...
 > 
 > ```python
-> def es_biblioteca("lugar")
+> def es_biblioteca("lugar"):
 >  return "biblioteca" in "lugar"
 > ```
 > ...¿está bien escrita? :eyes:
