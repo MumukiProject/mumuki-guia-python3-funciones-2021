@@ -1,4 +1,4 @@
-¡Bien! Estas semanejanzas no son casuales: ¡para definir funciones hay que seguir algunas reglas _sintácticas_! :straight_ruler:
+¡Bien! Estas semejanzas no son casuales: ¡para definir funciones hay que seguir algunas reglas _sintácticas_! :straight_ruler:
 
 1. La primera línea, también llamada cabecera:
   1. debe arrancar con la palabra reservada `def` (abreviatura de _definir_ en inglés);
