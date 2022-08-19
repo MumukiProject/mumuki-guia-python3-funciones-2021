@@ -15,6 +15,6 @@
     self.assertEqual(suma_longitudes("hola", "mundo"), 9)
 
 
-  def test__de_llueva_cafe_es_6(self):
+  def test_suma_longitudes_de_llueva_cafe_es_6(self):
     self.assertEqual(suma_longitudes("llueva", "café"), 10)
 
