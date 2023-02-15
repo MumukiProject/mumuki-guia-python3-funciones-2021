@@ -1,2 +1,2 @@
-expectation "`es_fin_de_semana` debe usar `or` con dos expresiones":
+expectation "`es_fin_de_semana` debe usar `or` con dos expresiones lógicas":
   within `es_fin_de_semana` calls or with (nonliteral, nonliteral);
