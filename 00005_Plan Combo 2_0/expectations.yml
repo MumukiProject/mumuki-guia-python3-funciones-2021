@@ -39,3 +39,12 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: anterior_del_triple
   inspection: Calls:triple
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_del_triple
+  inspection: Not:Uses:anterior_del_triple
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_del_triple
+  inspection: Not:UsesMinus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_del_triple
+  inspection: Not:UsesMultiply
