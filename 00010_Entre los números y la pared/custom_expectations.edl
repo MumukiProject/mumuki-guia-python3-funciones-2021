@@ -1,0 +1,2 @@
+expectation "`esta_fuera_de_rango` debe invocar `esta_entre`, **pasándole los 3 argumentos que necesita**": 
+  through `esta_fuera_de_rango` calls `esta_entre`  with (anything, anything, anything);

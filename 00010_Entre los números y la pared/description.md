@@ -12,19 +12,30 @@ False
 True
 ```
 
+Al igual que los otros operadores que fuimos aprendiendo, el `not` sirve para negar cualquier tipo de expresión booleana, incluso el resultado de una función: 
+
+```python
+# si tenemos una función que nos dice si algo es de un color...
+ムes_de_color("cielo", "verde")
+False
+# ...podemos negar su resultado usando not
+ムnot es_de_color("cielo", "verde")
+True
+```
+
 > ¡A practicar! :muscle: Definí las siguientes funciones:
 >
-> * `esta_entre`, que tome tres números y diga si el primero es mayor al segundo y menor al tercero.
-> * `esta_fuera_de_rango`: que tome tres números y diga si el primero es menor al segundo o mayor al tercero
+> * `esta_entre`, que tome tres números y diga si el primero es mayor o igual al segundo y menor o igual al tercero.
+> * `esta_fuera_de_rango`: que tome tres números y haga exactamente lo contrario de `esta_entre`. En otras palabras, debe decir si el primero es menor al segundo o mayor al tercero.
 >
 > ```python
-> ム esta_entre(3, 1, 10)
+> ムesta_entre(3, 1, 10)
 > True
-> ム esta_entre(90, 1, 10)
+> ムesta_entre(90, 1, 10)
 > False
-> ム esta_entre(10, 1, 10)
+> ムesta_entre(10, 1, 10)
 > False
-> ム esta_fuera_de_rango(17, 1, 10)
+> ムesta_fuera_de_rango(17, 1, 10)
 > True
 > ```
 >

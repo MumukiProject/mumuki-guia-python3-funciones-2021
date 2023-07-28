@@ -5,4 +5,16 @@ expectations:
   inspection: Declares:esta_entre
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
+  inspection: DeclaresComputationWithArity3:esta_entre
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Declares:esta_fuera_de_rango
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity3:esta_fuera_de_rango
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esta_fuera_de_rango
+  inspection: UsesNegation
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esta_fuera_de_rango
+  inspection: Uses:esta_entre

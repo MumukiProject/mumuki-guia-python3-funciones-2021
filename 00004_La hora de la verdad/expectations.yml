@@ -3,3 +3,12 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Declares:es_hora_de_la_verdad
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:es_hora_de_la_verdad
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: es_hora_de_la_verdad
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: es_hora_de_la_verdad
+  inspection: UsesEqual

@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - anterior_del_triple Not:Uses:anterior_del_triple
   then: "estás intentando definir `anterior_del_triple` usando ... ¡`anterior_del_triple`!

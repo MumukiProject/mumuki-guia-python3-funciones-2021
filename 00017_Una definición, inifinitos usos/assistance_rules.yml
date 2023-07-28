@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: submission_errored
+- when: submission_errored
   then: "no te olvides de copiar la definición **exactamente** como aparece en el
     enunciado: \n\n```python\ndef es_mas_largo_que(un_string, otro_string):\n  return
     len(un_string) > len(otro_string)\n```\n\nFijate que al lado del código hay un

@@ -7,6 +7,6 @@ type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
-progressive_expectations: false
+progressive_expectations: true
 choices: []
 name: Plan Combo 2.0

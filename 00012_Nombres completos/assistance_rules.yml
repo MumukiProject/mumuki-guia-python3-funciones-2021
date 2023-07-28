@@ -1,13 +1,11 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - "* Not:Uses:startswith"
   then: ":warning: en este ejercicio no necesitás `str.startswith`. Te la contamos
     sólo como ejemplo :wink:"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_tests_failed:
     - No falta contemplar el espacio
   then: Parece que no estás contemplando el espacio; la `longitud_nombre_completo`

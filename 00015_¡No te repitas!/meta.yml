@@ -9,7 +9,7 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices: []
-goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+goal:
   kind: last_query_equals
   value: es_mas_largo_que("Santiago del Estero", "Misiones")
 name: "¡No te repitas!"
