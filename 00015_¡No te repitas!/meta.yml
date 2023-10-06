@@ -10,6 +10,6 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_equals
-  value: es_mas_largo_que("Santiago del Estero", "Misiones")
+  kind: last_query_matches
+  regexp: ^es_mas_largo_que\s*\(\s*\"Santiago del Estero\"\s*\,\s*\"Misiones\"\s*\)\s*$
 name: "¡No te repitas!"
