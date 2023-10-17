@@ -1,0 +1,1 @@
+Para resolver estas consultas, el operador `==` no nos será útil. ¿Te imaginás con qué otro operador podremos combinar a `len`?
