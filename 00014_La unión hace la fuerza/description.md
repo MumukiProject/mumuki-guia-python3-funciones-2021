@@ -9,6 +9,8 @@ False
 True
 ```
 
+De la misma forma, podremos combinar muchas de las operaciones antes vistas. 
+
 > ¡Ahora te toca a vos! Averiguá usando la consola si:
 >
 > * `"Bahía de Samborombón"` es mas largo que `"Sierra Grande"`
