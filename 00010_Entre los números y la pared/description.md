@@ -33,7 +33,7 @@ True
 > True
 > ムesta_entre(90, 1, 10)
 > False
-> ムesta_entre(10, 1, 10)
+> ムesta_fuera_de_rango(10, 1, 10)
 > False
 > ムesta_fuera_de_rango(17, 1, 10)
 > True
